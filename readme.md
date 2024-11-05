@@ -4,3 +4,4 @@
 
 ### https://nyftie.github.io/cen1dd24/test.html
 ### https://nyftie.github.io/cen1dd24/S01Ex1.html
+### https://nyftie.github.io/cen1dd24/S01Ex2.html
