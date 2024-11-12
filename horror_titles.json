@@ -1,32 +1,102 @@
 [
-    {
-        "title": "The Tell-Tale Heart"
-    },
-    {
-        "title": "He"
-    },
-    {
-        "title": "The Shunned House"
-    },
-    {
-        "title": "Dagon"
-    },
-    {
-        "title": "The Thing on the Doorstep"
-    },
-    {
-        "title": "The Strange High House in the Mist"
-    },
-    {
-        "title": "The Call of Cthulhu"
-    },
-    {
-        "title": "The Collected Ghost Stories of M. R. James"
-    },
-    {
-        "title": "The Festival"
-    },
-    {
-        "title": "The Monkey's Paw"
-    }
+  {
+    "short_story": "http://www.wikidata.org/entity/Q762206",
+    "authorLabel": "Edgar Allan Poe",
+    "country_of_originLabel": "United States of America",
+    "genreLabel": "Gothic fiction",
+    "title": "The Tell-Tale Heart",
+    "Wordcount": 2093,
+    "Publication Date": 1843,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Clarke-TellTaleHeart.jpeg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q636960",
+    "authorLabel": "H. P. Lovecraft",
+    "country_of_originLabel": "United States of America",
+    "genreLabel": "horror literature",
+    "title": "He",
+    "Wordcount": "4,262",
+    "Publication Date": "1,925",
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/He%20%28short%20story%29.jpg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q3210430",
+    "authorLabel": "H. P. Lovecraft",
+    "country_of_originLabel": "United States of America",
+    "genreLabel": "horror literature",
+    "title": "The Shunned House",
+    "Wordcount": "10,742",
+    "Publication Date": 1923,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Shunned%20House.jpg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q1157371",
+    "authorLabel": "H. P. Lovecraft",
+    "country_of_originLabel": "United States of America",
+    "genreLabel": "horror literature",
+    "title": "Dagon",
+    "Wordcount": "2,216",
+    "Publication Date": 1917,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dagon%20%28short%20story%29.jpg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q465039",
+    "authorLabel": "H. P. Lovecraft",
+    "country_of_originLabel": "United States of America",
+    "genreLabel": "science fiction",
+    "title": "The Thing on the Doorstep",
+    "Wordcount": "10,954",
+    "Publication Date": 1933,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Thing%20on%20the%20Doorstep.jpg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q7766907",
+    "authorLabel": "H. P. Lovecraft",
+    "country_of_originLabel": "United States of America",
+    "genreLabel": "speculative fiction",
+    "title": "The Strange High House in the Mist",
+    "Wordcount": "3,765",
+    "Publication Date": 1926,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Strange%20High%20House%20in%20the%20Mist.jpg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q1141815",
+    "authorLabel": "H. P. Lovecraft",
+    "country_of_originLabel": "United States of America",
+    "genreLabel": "science fiction",
+    "title": "The Call of Cthulhu",
+    "Wordcount": "11,905",
+    "Publication Date": 1926,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Call%20of%20Cthulhu.jpg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q7726658",
+    "authorLabel": "M. R. James",
+    "country_of_originLabel": "United Kingdom",
+    "genreLabel": "horror literature",
+    "title": "The Collected Ghost Stories of M. R. James",
+    "Wordcount": "27,073",
+    "Publication Date": 1931,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Collected%20Ghost%20Stories%20-%20MR%20James.jpg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q7733695",
+    "authorLabel": "H. P. Lovecraft",
+    "country_of_originLabel": "United States of America",
+    "genreLabel": "Lovecraftian horror",
+    "title": "The Festival",
+    "Wordcount": "3,659",
+    "Publication Date": 1923,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Festival%20%28short%20story%29.jpg"
+  },
+  {
+    "short_story": "http://www.wikidata.org/entity/Q1210939",
+    "authorLabel": "W. W. Jacobs",
+    "country_of_originLabel": "United Kingdom",
+    "genreLabel": "horror literature",
+    "title": "The Monkey's Paw",
+    "Wordcount": "4,830",
+    "Publication Date": 1902,
+    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20lady%20of%20the%20barge%20-%20Frontispiece.png"
+  }
 ]
