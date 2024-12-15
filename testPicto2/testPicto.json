@@ -78,12 +78,6 @@
       }
     },
     "opacity": {"value": 1},
-    "size": {
-      "condition": {
-        "test": "datum.animal === 'musee'",
-        "value": 20
-      },
-      "value": 200
-    }
+    "size": {"value": 200}
   }
 }
