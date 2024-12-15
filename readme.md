@@ -6,4 +6,4 @@
 ### https://nyftie.github.io/cen1dd24/S01Ex1.html
 ### https://nyftie.github.io/cen1dd24/S01Ex2.html
 ### https://nyftie.github.io/cen1dd24/HorrorLiterature.html
-### https://nyftie.github.io/cen1dd24/testPictogram/testPictogram.html
+### https://nyftie.github.io/cen1dd24/testPictogram/index.html
