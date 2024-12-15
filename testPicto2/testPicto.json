@@ -74,7 +74,7 @@
       "scale": {
         "domain": ["musee", "cattle", "pigs", "sheep"],
         "range": [
-          "https://raw.githubusercontent.com/Nyftie/cen1dd24/refs/heads/main/testPicto2/musee.svg",
+          "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iQ2FscXVlXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI5NS4yMSAyNzQuMDMiPgogIDxkZWZzPgogICAgPHN0eWxlPgogICAgICAuY2xzLTEgewogICAgICAgIGZpbGw6ICNmOWI3NTc7CiAgICAgICAgc3Ryb2tlOiAjMWQxZDFiOwogICAgICAgIHN0cm9rZS1taXRlcmxpbWl0OiAxMDsKICAgICAgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CiAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjkzLjkxLDEzMS44M2gtMjUuNjZ2MTQxLjdoLTI2Ljk1di03Mi41N2MwLTIwLjM4LTkuOTUtMzYuOTItMjIuMjEtMzYuOTJzLTIyLjIyLDE2LjU0LTIyLjIyLDM2LjkydjcyLjU3aC0yNi4wNHYtNzIuNTdjMC0yMC4zOC05Ljk0LTM2LjkyLTIyLjIxLTM2Ljkycy0yMi4yMSwxNi41NC0yMi4yMSwzNi45MnY3Mi41N2gtMjguMDd2LTcyLjU3YzAtMjAuMzgtOS45NC0zNi45Mi0yMi4yMS0zNi45MnMtMjIuMjEsMTYuNTQtMjIuMjEsMzYuOTJ2NzIuNTdoLTI2Ljk1di0xNDEuN0gxLjMxTDE0Ny42MS42N2wxNDYuMywxMzEuMTZaIi8+Cjwvc3ZnPg==",
           "path_to_your_custom_cattle.svg",
           "path_to_your_custom_pigs.svg",
           "path_to_your_custom_sheep.svg"
