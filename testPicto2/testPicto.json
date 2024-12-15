@@ -74,7 +74,7 @@
       "scale": {
         "domain": ["musee", "cattle", "pigs", "sheep"],
         "range": [
-          "testPicto2/musee.svg",
+          "https://raw.githubusercontent.com/Nyftie/cen1dd24/refs/heads/main/testPicto2/musee.svg",
           "path_to_your_custom_cattle.svg",
           "path_to_your_custom_pigs.svg",
           "path_to_your_custom_sheep.svg"
